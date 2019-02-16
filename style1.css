@@ -1,0 +1,54 @@
+
+
+body{
+    margin: 0;
+}
+
+header{
+   background-color: #2980b9;
+   height: 50px;
+   
+}
+main{
+    float:left;
+    background-color: #f8f8f8;
+	height: 600px;
+	width:80%;
+}
+
+.contact{
+    float:right;
+    width:20%;
+    background-color:#2ecc71;
+    height: 600px;
+}
+
+
+section{
+    margin:0 auto;
+}
+
+nav{
+    margin-left:50px;
+    float:left;
+    width:15%;
+    background-color:green;
+    height: 600px;
+}
+
+article{
+    float:left;
+    width:50%;
+    background-color:blue;
+    height: 600px;
+    border-radius: 6px 6px 0 0;
+}
+
+aside{
+    float:left;
+    width:20%;
+    background-color:pink;
+    height: 600px;
+}
+
+
